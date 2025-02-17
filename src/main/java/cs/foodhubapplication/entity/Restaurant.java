@@ -21,6 +21,7 @@ public class Restaurant {
     private String location;
     private Double averageRating;
     private Integer totalOrders;
+    
 
     public Long getRestaurantId() {
         return restaurantId;
